@@ -1,0 +1,22 @@
+h1, h2 {
+    text-align: center;
+    color: red;
+}
+
+form {
+    padding: 20px;
+    width: 400px;
+    background: #ffe5b4;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.form_element {
+    text-align: center;
+    margin: 3px auto;
+}
+
+.more_space {
+    margin: 20px auto;
+}
